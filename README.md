@@ -22,8 +22,8 @@ exibidas na seção de cards.
 
 Integrantes responsáveis pelo desenvolvimento:
 
-Josemar Nascimento - GitHub: https://github.com/Josemar11
+- Josemar Nascimento - GitHub: https://github.com/Josemar11
 
-Ricardo Freitas - GitHub: https://github.com/ricfreittas
+- Ricardo Freitas - GitHub: https://github.com/ricfreittas
 
-Lucas Ramalho - GitHub: https://github.com/Lucas-Ramalho
+- Lucas Ramalho - GitHub: https://github.com/Lucas-Ramalho
